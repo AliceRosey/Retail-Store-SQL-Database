@@ -49,8 +49,9 @@ Execute the files in this sequence:
 3.	03_queries.sql — Contains queries for all business questions
 
 # Business Questions Solved
-The queries in 03_queries.sql answer questions such as:.
-•	       Customer contact extraction for marketing
+The queries in 03_queries.sql answer questions such as:
+
+•	Customer contact extraction for marketing
 •	Product catalog and category exploration
 •	Price/stock filters (premium items, mid-range items, out-of-stock).
 •	Order revenue metrics (total orders, revenue, average order value).
